@@ -1,0 +1,27 @@
+body{
+    background-color: royalblue;
+    text-align: center;
+    position: space-around;
+}
+
+.heading{
+    background-color: goldenrod;
+    
+}
+
+.copy_right_footer
+{
+   background-color: midnightblue;
+    position :fixed;
+    width: 100%;
+    font-size: 22px;
+    bottom: 0%;
+    line-height: 3;
+    text-align: center;
+    color: gold;
+}
+.note{
+    font-size:22px;
+    color:red;
+}
+
